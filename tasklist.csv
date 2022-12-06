@@ -1,0 +1,8 @@
+Name,Description,Date,Category,Status
+task1,description example1,2022-11-11 20:54,category1,ON
+task2,description example2,1990-10-09 20:54,category1,ON
+task3,description example3,2021-03-04 23:54,category2,ON
+task4,description example4,2020-05-05 00:53,category2,ON
+newNameVariant1,another text1,1999-05-05 20:54,animals,ON
+newNameVariant2,another text2,1998-10-30 20:55,tracks,ON
+newNameVariant3,another text3,2030-10-30 20:55,tracks,ON
